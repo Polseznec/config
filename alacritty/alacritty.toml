@@ -1,0 +1,17 @@
+import = ["~/.config/alacritty/themes/themes/solarized_osaka.toml"]
+
+[env]
+TERM = "xterm-256color"
+
+
+decorations = "Buttonless"
+
+[font]
+normal.family = "3270 Nerd Font"
+#normal.family = "3270 Nerd Font Mono"
+
+#regular
+size = 14
+
+#for video
+# size = 35.0
